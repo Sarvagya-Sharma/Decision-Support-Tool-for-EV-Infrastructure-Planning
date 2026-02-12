@@ -2,8 +2,7 @@
 
 ### A Data-Driven Approach using XGBoost and MCDM
 
-* **Deployed Project Report:** [Click here to view the Interactive Report](https://arpitmakkar12.github.io/Decision-Support-Tools-for-EV-Infrastructure-Planning/)  
-* **Interactive Enhanced EV Heat Map:** [Click here to view the Interactive Map](https://arpitmakkar12.github.io/Decision-Support-Tools-for-EV-Infrastructure-Planning/chapters/Enhanced_EV_Map.html)
+* **Interactive Enhanced EV Heat Map:** [Click here to view the Interactive Map](https://github.com/Sarvagya-Sharma/Decision-Support-Tool-for-EV-Infrastructure-Planning/blob/main/notebooks/Enhanced_EV_Map.html)
 
 ---
 
