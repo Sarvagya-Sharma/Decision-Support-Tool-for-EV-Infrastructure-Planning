@@ -57,83 +57,7 @@ By integrating diverse geospatial datasets (traffic volume, population density, 
 ├── LICENSE      <- MIT License terms.
 ```
 
----
 
-## 🛠️ Installation & Setup
-
-### 1. Prerequisites
-
-* **Python Version:** `3.10` or higher is required.
-* **Git LFS:** Required for handling large model files or HTML reports (if applicable).
-
-### 2. Clone the Repository
-
-```bash
-git clone https://github.com/SabudhFoundation/batch-15-ev_infratructre_planning.git
-cd batch-15-ev_infratructre_planning
-```
-
-### 3. Create a Virtual Environment
-
-It is recommended to use a clean environment to avoid dependency conflicts.
-
-```bash
-# Windows
-python -m venv venv
-.\venv\Scripts\activate
-
-# Mac/Linux
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 4. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Usage
-
-You can run the entire pipeline using the master script, or execute individual modules manually.
-
-### Option A: Run Full Pipeline
-
-```bash
-python src/main.py
-```
-
-*This will trigger preprocessing, feature engineering, model training, and result visualization in sequence.*
-
-### Option B: Run Modules Individually
-
-**1. Data Preprocessing:**
-
-```bash
-python src/preprocessing_data/pre-processing.py
-```
-
-**2. Feature Engineering:**
-
-```bash
-python src/feature_engineering/build_features.py
-```
-
-**3. Train Model:**
-
-```bash
-python src/models/train_model.py
-```
-
-**4. Generate Visualizations & Map:**
-
-```bash
-python src/visualization/visualize.py
-```
-
----
 
 ## 📊 Results Summary
 
@@ -144,12 +68,6 @@ python src/visualization/visualize.py
 
 ---
 
-## 🤝 Contributors
-
-* **Arpit Makkar**
-* **Sarvagya Sharma**
-* **Abhinav Jain**
-* **Shashwat Shukla**
 
 ---
 
