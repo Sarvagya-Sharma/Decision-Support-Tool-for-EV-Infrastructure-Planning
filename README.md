@@ -63,7 +63,7 @@ By integrating diverse geospatial datasets (traffic volume, population density, 
 * **Best Model:** XGBoost Regressor
 * **Accuracy:** RMSE: 42.1 | R²: 0.88
 * **Top Predictors:** Traffic Volume, Commercial POI Density, Road Network Centrality.
-* **Output:** A prioritized list of 300 optimal coordinates for charging stations, visualized in `reports/final_project_report`.
+* **Output:** A prioritized list of 300 optimal coordinates for charging stations.
 
 ---
 
