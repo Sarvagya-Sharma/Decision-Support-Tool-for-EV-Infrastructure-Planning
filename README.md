@@ -29,11 +29,6 @@ By integrating diverse geospatial datasets (traffic volume, population density, 
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention: snake_case (e.g., final_last_model.ipynb).
 │
-├── reports            
-│   ├── figures        <- Generated graphics and figures to be used in reporting.
-│   ├── README.md      <- Youtube Video Link (Project Walkthrough).
-│   ├── final_project_report <- Final report in .pdf/html format and supporting Quarto files.
-│   └── presentation   <- Final PowerPoint presentation (.pptx).
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
 │
